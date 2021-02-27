@@ -1,0 +1,1 @@
+This repo is for keeping a history of exercises from working through Learn Python The Hard Way by Zed Shaw.
